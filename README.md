@@ -14,12 +14,14 @@ Dourado: #C8982E
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:012E59,55:0B3B60,100:C8982E&height=230&section=header&text=João%20Pedro%20Viana%20Machado&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=T%26D%20%7C%20Tecnologia%20%26%20Inovação&descAlignY=59&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:012E59,55:0B3B60,100:C8982E&height=220&section=header&text=Jo%C3%A3o%20Pedro%20Viana%20Machado&fontSize=38&fontColor=FFFFFF&fontAlignY=38"
 />
+
+<h3>T&amp;D · Tecnologia &amp; Inovação</h3>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=C8982E&center=true&vCenter=true&width=900&lines=Analista+de+T%26D+%7C+Tecnologia+%26+Inova%C3%A7%C3%A3o;Desenvolvendo+solu%C3%A7%C3%B5es+digitais+para+aprendizagem;Portais+%7C+Automa%C3%A7%C3%A3o+%7C+IA+%7C+Gest%C3%A3o+do+Conhecimento;Transformando+necessidades+em+solu%C3%A7%C3%B5es"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=C8982E&center=true&vCenter=true&width=900&lines=Analista+de+T%26D;Tecnologia+e+Inova%C3%A7%C3%A3o;Desenvolvimento+de+solu%C3%A7%C3%B5es+digitais;Automa%C3%A7%C3%A3o+%7C+IA+%7C+Gest%C3%A3o+do+Conhecimento"
     alt="Typing Animation"
   />
 </a>
@@ -29,16 +31,20 @@ Dourado: #C8982E
 <a href="https://github.com/jpvmachado">
   <img
     src="https://img.shields.io/badge/GitHub-jpvmachado-C8982E?style=for-the-badge&logo=github&logoColor=071C2D"
+    alt="GitHub"
   />
 </a>
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-viana-machado-7937803aa/">
   <img
     src="https://img.shields.io/badge/LinkedIn-João%20Pedro%20Viana%20Machado-012E59?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
   />
 </a>
 
 </div>
+
+---
 
 ---
 
