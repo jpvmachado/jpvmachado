@@ -1,1 +1,432 @@
-# jpvmachado
+<!--
+=========================================================
+JOÃO PEDRO VIANA MACHADO
+GitHub: jpvmachado
+T&D | Tecnologia & Inovação
+
+Identidade visual
+Azul: #012E59
+Dourado: #C8982E
+=========================================================
+-->
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:012E59,55:0B3B60,100:C8982E&height=230&section=header&text=João%20Pedro%20Viana%20Machado&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=T%26D%20%7C%20Tecnologia%20%26%20Inovação&descAlignY=59&descSize=18"
+/>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=C8982E&center=true&vCenter=true&width=900&lines=Analista+de+T%26D+%7C+Tecnologia+%26+Inova%C3%A7%C3%A3o;Desenvolvendo+solu%C3%A7%C3%B5es+digitais+para+aprendizagem;Portais+%7C+Automa%C3%A7%C3%A3o+%7C+IA+%7C+Gest%C3%A3o+do+Conhecimento;Transformando+necessidades+em+solu%C3%A7%C3%B5es"
+    alt="Typing Animation"
+  />
+</a>
+
+<br><br>
+
+<a href="https://github.com/jpvmachado">
+  <img
+    src="https://img.shields.io/badge/GitHub-jpvmachado-C8982E?style=for-the-badge&logo=github&logoColor=071C2D"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-viana-machado-7937803aa/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-João%20Pedro%20Viana%20Machado-012E59?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+
+</div>
+
+---
+
+## Sobre mim
+
+Sou **João Pedro Viana Machado** e atuo em **Treinamento & Desenvolvimento**, com foco em **Tecnologia e Inovação**.
+
+Minha atuação conecta **aprendizagem corporativa, desenvolvimento de soluções digitais, automação, inteligência artificial e gestão do conhecimento**.
+
+Meu trabalho parte da identificação de uma necessidade real e passa pela estruturação do processo, desenvolvimento da solução, testes, homologação, implantação, documentação e evolução contínua.
+
+Busco utilizar tecnologia para tornar processos internos mais simples, organizados, rastreáveis e úteis para quem realmente utiliza as ferramentas.
+
+> **Tecnologia só faz sentido quando resolve um problema real.**
+
+---
+
+## Minha atuação
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/T%26D-Aprendizagem%20Corporativa-012E59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tecnologia-Soluções%20Digitais-C8982E?style=for-the-badge&labelColor=012E59" />
+
+<br>
+
+<img src="https://img.shields.io/badge/IA-Aplicada%20ao%20Negócio-012E59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automação-Processos-C8982E?style=for-the-badge&labelColor=012E59" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Gestão%20do%20Conhecimento-Inovação-012E59?style=for-the-badge" />
+
+</div>
+
+---
+
+## Tecnologias & Ferramentas
+
+<div align="center">
+
+### Desenvolvimento
+
+<img
+  src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark"
+/>
+
+<br><br>
+
+### Ecossistema
+
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<br>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/APIs-012E59?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+
+</div>
+
+---
+
+# Projetos
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Central de Processos CX
+
+Portal corporativo desenvolvido para centralizar processos, procedimentos e conhecimento operacional.
+
+**Principais recursos**
+
+- Base oficial de processos
+- Pesquisa estruturada
+- Gestão administrativa
+- Controle de publicação
+- Atualizações de processos
+- Histórico e rastreabilidade
+- Arquivos, imagens e PDFs
+- Controle de acesso
+- Logs e segurança
+- Interface responsiva
+
+**Tecnologias**
+
+`Google Apps Script` `JavaScript` `HTML` `CSS` `Google Sheets`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Gavson
+
+Assistente integrado à Central de Processos para facilitar a consulta ao conhecimento oficial.
+
+**Principais recursos**
+
+- Consulta aos processos oficiais
+- Histórico conversacional
+- Tratamento de ambiguidades
+- Controle de fontes
+- Controle de confiança
+- Feedback das respostas
+- Homologação
+- Monitoramento
+- Governança
+- Segurança
+
+**Foco**
+
+`IA` `Conhecimento` `Governança` `Segurança`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Universidade Corporativa
+
+Ambiente digital desenvolvido para transformar treinamento em uma jornada estruturada de aprendizagem.
+
+**Principais recursos**
+
+- Liberação individual de treinamentos
+- Trilhas de aprendizagem
+- Conteúdos em Canva
+- Avaliações de conhecimento
+- Controle de tentativas
+- Nota mínima
+- Progresso individual
+- Controle de prazos
+- Certificados em PDF
+- Gestão de acessos
+- Painel de T&D
+- Gestão de certificações
+
+**Tecnologias**
+
+`Google Apps Script` `JavaScript` `HTML` `CSS` `Google Sheets`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Central de Boas-Vindas
+
+Solução operacional desenvolvida para acompanhamento e organização da jornada de atendimento.
+
+**Principais recursos**
+
+- Gestão de pendências
+- Histórico do cliente
+- SLA
+- Produtividade
+- Metas
+- Distribuição
+- Importação de bases
+- Perfis de acesso
+- Indicadores
+- Fechamentos mensais
+- Controle de impacto das importações
+
+**Foco**
+
+`Automação` `Operação` `Dados` `Processos`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Speech Analytics — POC
+
+Participação na estruturação de uma prova de conceito utilizando inteligência artificial aplicada à monitoria de atendimentos.
+
+**Objetivo**
+
+Avaliar o potencial da IA para ampliar a capacidade de análise e aumentar a cobertura de monitoria.
+
+**Atuação**
+
+- Planejamento da POC
+- Definição de escopo
+- Alinhamento com fornecedor
+- Acompanhamento da implantação
+- Avaliação da aplicação no processo
+
+**Foco**
+
+`IA` `Speech Analytics` `Monitoria` `Qualidade`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Soluções Internas & Automações
+
+Desenvolvimento de ferramentas e melhorias voltadas à digitalização e otimização das rotinas internas.
+
+**Atuação**
+
+- Digitalização de processos
+- Estruturação de bases
+- Automação de controles
+- Gestão do conhecimento
+- Indicadores
+- Documentação
+- Homologação
+- Evolução contínua
+- Experiência do usuário
+
+**Objetivo**
+
+Transformar demandas operacionais em soluções digitais utilizáveis.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## Do problema à solução
+
+<div align="center">
+
+**Necessidade**
+
+↓
+
+**Mapeamento do processo**
+
+↓
+
+**Definição da solução**
+
+↓
+
+**Desenvolvimento**
+
+↓
+
+**Testes & Homologação**
+
+↓
+
+**Implantação**
+
+↓
+
+**Monitoramento**
+
+↓
+
+**Evolução contínua**
+
+</div>
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=jpvmachado&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C8982E&icon_color=C8982E&text_color=FFFFFF"
+/>
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvmachado&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C8982E&text_color=FFFFFF"
+/>
+
+</div>
+
+---
+
+## GitHub Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=jpvmachado&hide_border=true&background=0D1117&ring=C8982E&fire=C8982E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C8982E&sideLabels=FFFFFF&dates=8B949E"
+/>
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=jpvmachado&bg_color=0D1117&color=FFFFFF&line=C8982E&point=FFFFFF&area=true&area_color=012E59&hide_border=true"
+/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=jpvmachado&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
+/>
+
+</div>
+
+---
+
+## Foco profissional
+
+<div align="center">
+
+| Área | Aplicação |
+|:---:|:---|
+| **T&D** | Aprendizagem e desenvolvimento |
+| **Tecnologia** | Desenvolvimento de soluções internas |
+| **Automação** | Digitalização de rotinas e processos |
+| **IA** | Aplicação de inteligência artificial ao negócio |
+| **Conhecimento** | Centralização e organização da informação |
+| **Dados** | Indicadores e acompanhamento |
+| **Inovação** | Experimentação e evolução de soluções |
+
+</div>
+
+---
+
+# Vamos nos conectar
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-viana-machado-7937803aa/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-João%20Pedro%20Viana%20Machado-012E59?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+
+<a href="https://github.com/jpvmachado">
+  <img
+    src="https://img.shields.io/badge/GitHub-jpvmachado-C8982E?style=for-the-badge&logo=github&logoColor=071C2D"
+  />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:C8982E,45:0B3B60,100:012E59&height=120&section=footer"
+/>
+
+<strong>
+T&D • Tecnologia • Inovação • Soluções Digitais
+</strong>
+
+<br><br>
+
+<sub>
+João Pedro Viana Machado
+</sub>
+
+</div>
