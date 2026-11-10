@@ -7,8 +7,8 @@ T&D | Tecnologia & Inovação
 Identidade visual
 Azul: #012E59
 Dourado: #C8982E
-=========================================================
---><div align="center"><img
+========================================================-->
+<div align="center"><img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:012E59,55:0B3B60,100:C8982E&amp;height=220&amp;section=header&amp;text=Jo%C3%A3o%20Pedro%20Viana%20Machado&amp;fontSize=38&amp;fontColor=FFFFFF&amp;fontAlignY=38" alt="João Pedro Viana Machado" />
 <h3>T&amp;D · Tecnologia &amp; Inovação</h3><a href="https://git.io/typing-svg">
